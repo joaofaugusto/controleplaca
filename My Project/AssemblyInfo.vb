@@ -8,9 +8,9 @@ Imports System.Runtime.InteropServices
 
 ' Revise os valores dos atributos do assembly
 
-<Assembly: AssemblyTitle("controleplaca")>
+<Assembly: AssemblyTitle("Controle Placa")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("JSoftware")>
 <Assembly: AssemblyProduct("controleplaca")>
 <Assembly: AssemblyCopyright("Copyright ©  2023")>
 <Assembly: AssemblyTrademark("")>
